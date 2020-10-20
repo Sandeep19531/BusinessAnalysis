@@ -1,4 +1,4 @@
-**Motivation** : Data Scientists spends most of their time performing Data Wrangling and Analysis, having an interest in finance I opted for this task in during my internship at The Sparks Foundation.  
+**Motivation** : Data Scientists spends most of their time performing Data Wrangling and Analysis, having an interest in finance I opted for this task during my internship at The Sparks Foundation.  
 ____________________________________________________________________________________________________
 **Libraries Used**: Pandas, NumPy, Seaborn, Matplotlib  
 ____________________________________________________________________________________________________
